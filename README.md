@@ -2,7 +2,3 @@
 
 A new Flutter News app.
 
-## Getting Started
-
-
-
